@@ -10,9 +10,9 @@ A passionate Front-End Developer and dedicated Systems & Digital Media student.
 ![Wordpress](https://img.shields.io/static/v1?label=%20&message=Wordpress&color=21759B)
 
 ## :crown: About Me 
-My passion for the area started growing as a kid (inspired by my uncle who is a IT support professional since then) and since 2014 I started to take some steps into the Web Development. In 2018 I was engaged into a scholarship and started to develop my first official project as Front-End and since then I've been working hard to keep going to the next level.
+My passion for the area started as a kid inspired by watching my uncle (who is a IT support professional since I know him) working daily using his computer, doing some amazing things and then, when I finally grew up, I started to take some steps into the Web Development. My journey started in 2017 when I was engaged into a development scholarship and had the opportunity to develop my first official project as Front-End and since then I've been working hard and challenging myself to keep going to the next level.
 
-Learn more at [Linkedin](https://www.linkedin.com/in/josemagalhaesnt/)
+To learn more about my experience, take a look at my [Linkedin](https://www.linkedin.com/in/josemagalhaesnt/) profile.
 
 ## ✨ Current Status and Goals
   
