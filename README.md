@@ -1,17 +1,25 @@
-# Hi there 👋 I am José Magalhães ⚡
-
+# Hi there 👋 I am José Magalhães ⚡ 
 A passionate Front-End Developer and dedicated Systems & Digital Media student.
 
 ![GitHub followers](https://img.shields.io/github/followers/josemagalhaesnt?style=social)
+![HTML](https://img.shields.io/static/v1?label=Experienced%20with&message=HTML&color=orangered&logo=html5)
+![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=darkblue&logo=css3)
+![Sass](https://img.shields.io/static/v1?label=%20&message=Sass&color=lightpink&logo=sass)
+![Javascript](https://img.shields.io/static/v1?label=%20&message=Javascript&color=yellow&logo=javascript)
+![React.js](https://img.shields.io/static/v1?label=%20&message=React.js&color=blue&logo=react)
+![Wordpress](https://img.shields.io/static/v1?label=%20&message=Wordpress&color=black&logo=wordpress)
 
 ## :crown: About Me 
 My passion for the area started growing as a kid (inspired by my uncle who is a IT support professional since then) and since 2014 I started to take some steps into the Web Development. In 2018 I was engaged into a scholarship and started to develop my first official project as Front-End and since then I've been working hard to keep going to the next level.
 
-## ✨ Status and Goals 
+Learn more at [Linkedin](https://www.linkedin.com/in/josemagalhaesnt/)
+
+## ✨ Current Status and Goals
   
 - 🔭 I’m currently working on my porfolio website
-- 🌱 I’m currently learning React Testing Library, Styled Components and React Native
-- 🤔 I’m looking for help with job opportunities
+- 🌱 I’m currently learning Typescript React and Styled Components
+- 🎯 I'm looking forward to have some experience with React Native and React Testing Library
+- 🤔 I’m available for hire!!!
 
 
 
