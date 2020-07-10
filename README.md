@@ -2,12 +2,12 @@
 A passionate Front-End Developer and dedicated Systems & Digital Media student.
 
 ![GitHub followers](https://img.shields.io/github/followers/josemagalhaesnt?style=social)
-![HTML](https://img.shields.io/static/v1?label=Experienced%20with&message=HTML&color=orangered&logo=html5)
-![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=darkblue&logo=css3)
-![Sass](https://img.shields.io/static/v1?label=%20&message=Sass&color=lightpink&logo=sass)
-![Javascript](https://img.shields.io/static/v1?label=%20&message=Javascript&color=yellow&logo=javascript)
-![React.js](https://img.shields.io/static/v1?label=%20&message=React.js&color=blue&logo=react)
-![Wordpress](https://img.shields.io/static/v1?label=%20&message=Wordpress&color=black&logo=wordpress)
+![HTML](https://img.shields.io/static/v1?label=Experienced%20with&message=HTML&color=orangered)
+![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=darkblue)
+![Sass](https://img.shields.io/static/v1?label=%20&message=Sass&color=lightpink)
+![Javascript](https://img.shields.io/static/v1?label=%20&message=Javascript&color=yellow)
+![React.js](https://img.shields.io/static/v1?label=%20&message=React.js&color=blue)
+![Wordpress](https://img.shields.io/static/v1?label=%20&message=Wordpress&color=black)
 
 ## :crown: About Me 
 My passion for the area started growing as a kid (inspired by my uncle who is a IT support professional since then) and since 2014 I started to take some steps into the Web Development. In 2018 I was engaged into a scholarship and started to develop my first official project as Front-End and since then I've been working hard to keep going to the next level.
