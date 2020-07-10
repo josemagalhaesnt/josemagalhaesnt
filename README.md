@@ -4,7 +4,7 @@ A passionate Front-End Developer and dedicated Systems & Digital Media student.
 ![GitHub followers](https://img.shields.io/github/followers/josemagalhaesnt?style=social)
 ![HTML](https://img.shields.io/static/v1?label=Experienced%20with&message=HTML&color=orangered)
 ![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=darkblue)
-![Sass](https://img.shields.io/static/v1?label=%20&message=Sass&color=lightpink)
+![Sass](https://img.shields.io/static/v1?label=%20&message=Sass&color=palevioletred)
 ![Javascript](https://img.shields.io/static/v1?label=%20&message=Javascript&color=yellow)
 ![React.js](https://img.shields.io/static/v1?label=%20&message=React.js&color=blue)
 ![Wordpress](https://img.shields.io/static/v1?label=%20&message=Wordpress&color=black)
