@@ -12,34 +12,14 @@ A passionate Front-End Developer and dedicated Systems & Digital Media student.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemagalhaesnt&hide=php&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josemagalhaesnt&show_icons=true&theme=radical&line_height=38&hide_title=true&count_private=true)
 
-## :crown: About Me 
-My passion for the area started as a kid inspired by watching my uncle (who is a IT support professional since I know him) working daily using his computer, doing some amazing things and then, when I finally grew up, I started to take some steps into the Web Development. My journey started in 2017 when I was engaged into a development scholarship and had the opportunity to develop my first official project as Front-End and since then I've been working hard and challenging myself to keep going to the next level.
-
-To learn more about my experience, take a look at my [Linkedin](https://www.linkedin.com/in/josemagalhaesnt/) profile.
-
 ## ✨ Current Status and Goals
   
 - 🔭 I’m currently working on my porfolio website
 - 🌱 I’m currently learning Typescript React and Styled Components
-- 🎯 I'm looking forward to have some experience with React Native and React Testing Library
-- 🤔 I’m available for hire!!!
+- 🤔 I'm looking forward to have some experience with React Native and React Testing Library 
+- 🎯 I’m looking for a job!!!
 
+## :crown: About Me 
+My passion for the area started as a kid inspired by watching my uncle (who is a IT support professional since I know him) working daily using his computer, doing some amazing things and then, when I finally grew up, I started to take some steps into the Web Development. My journey started in 2017 when I was engaged into a development scholarship and had the opportunity to develop my first official project as Front-End and since then I've been working hard and challenging myself to keep going to the next level.
 
-
-
-
-
-<!--
-**josemagalhaesnt/josemagalhaesnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To learn more about my experience, take a look at my [Linkedin](https://www.linkedin.com/in/josemagalhaesnt/) profile.
