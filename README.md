@@ -9,6 +9,9 @@ A passionate Front-End Developer and dedicated Systems & Digital Media student.
 ![React](https://img.shields.io/static/v1?label=%20&message=React&color=61DAFB)
 ![Wordpress](https://img.shields.io/static/v1?label=%20&message=Wordpress&color=21759B)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemagalhaesnt&hide=php&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josemagalhaesnt&show_icons=true&theme=radical&line_height=38&hide_title=true&count_private=true)
+
 ## :crown: About Me 
 My passion for the area started as a kid inspired by watching my uncle (who is a IT support professional since I know him) working daily using his computer, doing some amazing things and then, when I finally grew up, I started to take some steps into the Web Development. My journey started in 2017 when I was engaged into a development scholarship and had the opportunity to develop my first official project as Front-End and since then I've been working hard and challenging myself to keep going to the next level.
 
