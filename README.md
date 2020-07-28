@@ -14,7 +14,7 @@ A passionate Front-End Developer and dedicated Systems & Digital Media student.
 
 ## ✨ Current Status and Goals
   
-- 🔭 I’m currently working on my porfolio website
+- 🔭 I’m currently working on my porfolio website and developing DevFlix app
 - 🌱 I’m currently learning Typescript React and Styled Components
 - 🤔 I'm looking forward to have some experience with React Native and React Testing Library 
 - 🎯 I’m looking for a job!!!
