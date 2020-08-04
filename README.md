@@ -1,5 +1,5 @@
 # Hi there 👋 I am José Magalhães ⚡ 
-A passionate Front-End Developer and dedicated Systems & Digital Media student.
+A passionate Front-End Developer and dedicated Digital Systems & Media student.
 
 ![GitHub followers](https://img.shields.io/github/followers/josemagalhaesnt?style=social)
 ![HTML](https://img.shields.io/static/v1?label=Experienced%20with&message=HTML&color=E34F26)
