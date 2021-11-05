@@ -14,10 +14,9 @@ A passionate Front-End Developer and dedicated Digital Systems & Media student.
 
 ## ✨ Current Status and Goals
   
-- 🔭 I’m currently working on my porfolio website and developing Cinemate app
-- 🌱 I’m currently learning Angular to diversify my projects and skills
-- 🤔 I'm looking forward to have some experience with Vue.js in the future
-- 🎯 I’m looking for a job!!!
+- 🔭 I’m currently working as System Analyst at Instituto Atlântico, mainly focused on Front-End demands.
+- 🌱 I’m currently learning Mobile development
+- 🤔 I'm looking forward to have some experience with Flutter to develop mobile cross-platform apps in the future
 
 ## :crown: About Me 
 My passion for the area started as a kid inspired by watching my uncle (who is a IT support professional since I know him) working daily using his computer, doing some amazing things and then, when I finally grew up, I started to take some steps into the Web Development. My journey started in 2017 when I was engaged into a development scholarship and had the opportunity to develop my first official project as Front-End and since then I've been working hard and challenging myself to keep going to the next level.
